@@ -1,0 +1,29 @@
+{
+ "name": "terms",
+ "children": [
+  {
+   "name": "category1",
+   "children": [
+    {"name": "Term 1", "size": 25},
+    {"name": "Term 2", "size": 100},
+    {"name": "Term 3", "size": 500}
+   ]
+  },
+  {
+   "name": "category2",
+   "children": [
+    {"name": "Term 4", "size": 250},
+    {"name": "Term 5", "size": 1000},
+    {"name": "Term 6", "size": 5000}
+   ]
+  },
+  {
+   "name": "category3",
+   "children": [
+    {"name": "Term 7", "size": 10},
+    {"name": "Term 8", "size": 100},
+    {"name": "Term 9", "size": 1000}
+   ]
+  }
+ ]
+}
